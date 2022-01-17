@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-01-08T03:41:17Z" name="Default suite" finished-at="2022-01-08T03:41:58Z" duration-ms="40548">
+    <groups>
+    </groups>
+    <test started-at="2022-01-08T03:41:17Z" name="Default test" finished-at="2022-01-08T03:41:58Z" duration-ms="40548">
+      <class name="selenium.webdriver1.Assignment_02_Xpath">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:17Z" name="beforeClass" finished-at="2022-01-08T03:41:30Z" duration-ms="12997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01_Register_Empty_Data()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:30Z" name="TC_01_Register_Empty_Data" finished-at="2022-01-08T03:41:36Z" duration-ms="6140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01_Register_Empty_Data -->
+        <test-method signature="TC_02_Register_Invalid_Email()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:36Z" name="TC_02_Register_Invalid_Email" finished-at="2022-01-08T03:41:39Z" duration-ms="2924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02_Register_Invalid_Email -->
+        <test-method signature="TC_03_Register_Incorrect_Email()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:39Z" name="TC_03_Register_Incorrect_Email" finished-at="2022-01-08T03:41:42Z" duration-ms="2952" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03_Register_Incorrect_Email -->
+        <test-method signature="TC_04_Register_Password_Less_Than_6_Chars()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:42Z" name="TC_04_Register_Password_Less_Than_6_Chars" finished-at="2022-01-08T03:41:45Z" duration-ms="3113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_04_Register_Password_Less_Than_6_Chars -->
+        <test-method signature="TC_05_Register_Incorrect_Password()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:45Z" name="TC_05_Register_Incorrect_Password" finished-at="2022-01-08T03:41:48Z" duration-ms="2887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_05_Register_Incorrect_Password -->
+        <test-method signature="TC_06_Register_Invalid_Phone()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:48Z" name="TC_06_Register_Invalid_Phone" finished-at="2022-01-08T03:41:52Z" duration-ms="3663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_06_Register_Invalid_Phone -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:selenium.webdriver1.Assignment_02_Xpath@343570b7]" started-at="2022-01-08T03:41:52Z" name="afterClass" finished-at="2022-01-08T03:41:58Z" duration-ms="5842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- selenium.webdriver1.Assignment_02_Xpath -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
